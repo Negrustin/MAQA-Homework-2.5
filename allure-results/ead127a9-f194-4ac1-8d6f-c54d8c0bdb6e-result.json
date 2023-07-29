@@ -1,0 +1,53 @@
+{
+    "name": "testMainPageTextDisplayedAndCorrect",
+    "start": 1690661470732,
+    "stop": 1690661475931,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "ead127a9-f194-4ac1-8d6f-c54d8c0bdb6e",
+    "historyId": "38778454733edf67af41602a60418e8c",
+    "fullName": "ru.kkuzmichev.simpleappforespresso.MainPageTest.testMainPageTextDisplayedAndCorrect",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.kkuzmichev.simpleappforespresso"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.kkuzmichev.simpleappforespresso.MainPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testMainPageTextDisplayedAndCorrect"
+        },
+        {
+            "name": "suite",
+            "value": "ru.kkuzmichev.simpleappforespresso.MainPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(66)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}
